@@ -1,3 +1,3 @@
-# Project name
+# Voice Synthesizer
 
-Description
+Voice synthesizer - Java
